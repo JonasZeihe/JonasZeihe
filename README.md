@@ -23,10 +23,6 @@ I'm a passionate fullstack developer & designer dedicated to creating elegant, e
   <img src="https://github-profile-trophy.vercel.app/?username=jonaszeihe&theme=dracula&row=1&column=7" alt="GitHub Trophies" style="max-width: 800px;" />
 </div>
 
-<div align="center" style="margin-top: 1rem;">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jonaszeihe&theme=dracula" alt="GitHub Activity Graph" style="max-width: 800px;" />
-</div>
-
 ---
 
 ## Tech Stack
