@@ -1,31 +1,49 @@
-# Jonas Zeihe
+# Jonas – Fullstack Developer & Designer
 
-[![GitHub Followers](https://img.shields.io/github/followers/jonaszeihe?style=social)](https://github.com/jonaszeihe)  
-[![Visitor Count](https://komarev.com/ghpvc/?username=jonaszeihe&color=blue)](https://github.com/jonaszeihe)
+[![GitHub Followers](https://img.shields.io/github/followers/jonaszeihe?style=social)](https://github.com/jonaszeihe)
+[![Profile Views](https://komarev.com/ghpvc/?username=jonaszeihe&color=blue)](https://github.com/jonaszeihe)
 
----
-
-## Hi there, I'm Jonas! 👋
-
-I'm a passionate fullstack developer & designer dedicated to creating elegant, efficient, and accessible web solutions. I blend innovative design with robust code to build projects that not only work flawlessly but also inspire.
-
----
-
-## Dynamic GitHub Stats
+> Create projects that appear effortless yet reflect the highest technical, aesthetic, and functional excellence. ✨
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonaszeihe&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" style="max-width: 400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonaszeihe&theme=dracula" alt="GitHub Streak" style="max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaszeihe&theme=dracula&layout=compact" alt="Top Languages" style="max-width: 400px;" />
-</div>
-
-<div align="center" style="margin-top: 1rem;">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonaszeihe&theme=dracula&row=1&column=7" alt="GitHub Trophies" style="max-width: 800px;" />
+  <img 
+    src="https://raw.githubusercontent.com/jonaszeihe/jonaszeihe/main/github-metrics.svg" 
+    alt="GitHub metrics" 
+    style="max-width: 100%;"
+  />
 </div>
 
 ---
 
-## Tech Stack
+## ⚙️ Stats & Trophies
+
+<div align="center">
+  <!-- GitHub Readme Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=jonaszeihe&show_icons=true&theme=dracula&count_private=true"
+       alt="Jonas' GitHub Stats"
+       style="max-width: 420px; margin: 0.5rem;" 
+  />
+  <!-- GitHub Streak Stats -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com?user=jonaszeihe&theme=dracula"
+       alt="Jonas' Streak Stats"
+       style="max-width: 420px; margin: 0.5rem;"
+  />
+</div>
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img 
+       src="https://github-profile-trophy.vercel.app/?username=jonaszeihe&theme=dracula&no-frame=true&row=1&column=7"
+       alt="Jonas' Trophies"
+       style="max-width: 100%; margin: 1rem 0;"
+  />
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center" style="margin: 1rem 0;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -39,10 +57,15 @@ I'm a passionate fullstack developer & designer dedicated to creating elegant, e
 
 ---
 
-## Get in Touch
+## 📬 Contact
 
 <div align="center">
-  [jonaszeihe@gmail.com](mailto:jonaszeihe@gmail.com) • 
-  [GitHub](https://github.com/jonaszeihe) • 
-  [Portfolio](https://jonaszeihe.github.io/)
+  <a href="mailto:jonaszeihe@gmail.com">jonaszeihe@gmail.com</a> • 
+  <a href="https://jonaszeihe.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+</div>
+
+---
+
+<div align="center">
+  <em>“Design is the silent ambassador of your brand.”</em> – Paul Rand 
 </div>
