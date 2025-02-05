@@ -5,14 +5,6 @@
 
 > Create projects that appear effortless yet reflect the highest technical, aesthetic, and functional excellence. ✨
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/jonaszeihe/jonaszeihe/main/github-metrics.svg" 
-    alt="GitHub metrics" 
-    style="max-width: 100%;"
-  />
-</div>
-
 ---
 
 ## ⚙️ Stats & Trophies
