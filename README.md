@@ -1,7 +1,4 @@
 <h2 align="center">Hey there, I'm Jonas – Fullstack Developer & Designer ✨</h2>
-<p align="center">
-  <strong>Sprezzatura in every line of code and every pixel of design.</strong>
-</p>
 
 <p align="center">
   <a href="https://github.com/jonaszeihe">
