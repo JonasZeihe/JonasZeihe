@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Jonas – Fullstack Developer & Designer</h2>
+<h2 align="center">Hey there, I'm Jonas – Fullstack Developer & Designer ✨</h2>
 <p align="center">
   <strong>Sprezzatura in every line of code and every pixel of design.</strong>
 </p>
@@ -19,50 +19,50 @@
 
 ## ✨ About Me
 
-I’m a **Fullstack Developer & Designer** with a passion for blending **technical rigor** and **creative thinking**. My aim is to build solutions that feel effortless—yet are backed by thoughtful design, clean architecture, and user-centric principles.
+I’m a **Fullstack Developer & Designer** with a passion for blending **technical rigor** and **creative thinking** into effortless solutions. My goal is to spark a hint of **wonder** in every interaction.
 
-- **Intuitive UX/UI:** Every project I touch prioritizes clarity and user delight.
-- **Scalable Solutions:** From early prototypes to production-ready apps.
-- **Automation & Efficiency:** CI/CD pipelines, reusable components, and streamlined workflows.
-- **Collaborative Mindset:** Always open to feedback, new ideas, and cross-functional synergy.
+- **Intuitive UX/UI:** Putting real people first.
+- **Scalable Solutions:** Growing alongside your vision.
+- **Automation & Efficiency:** CI/CD pipelines, reusable components, and frictionless workflows.
+- **Collaborative Mindset:** Open to new ideas and synergy 🤝
 
 ---
 
 ## 🌟 Featured Projects
 
-### KIM
+### KIM 
 - [Figma Prototype](https://www.figma.com/proto/zOqkBn4RzZ9vU8yIWpjbwx/capstone_Gruppe4_designsystem?page-id=1%3A2&node-id=1269-9613&viewport=6473%2C-426%2C0.65&t=glC7uXK0AhmNVLGg-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1184%3A20281)
 - [Case Study](https://jonaszeihe.github.io/case-study-KIM/)
-- **Highlights:** User-Centered Design, AI Support, Iterative Prototyping
+- **Highlights:** User-Centered Design 🚀, AI Support 🤖, Iterative Prototyping ♻️
 
 ### FlavorFusion
 - [Figma Prototype](https://www.figma.com/proto/Gy9acaVeAmKcpYY2qLSE24/Projekt4_FIGMA_JONAS?page-id=606%3A5597&node-id=4114-3680&viewport=3715%2C1765%2C0.4&t=9FZnOndSTJA4elsZ-1&scaling=scale-down&content-scaling=fixed)
 - [Case Study](https://jonaszeihe.github.io/casestudyFlavorFusion/)
-- **Highlights:** UX/UI Best Practices, Gamification, Responsive Design
+- **Highlights:** UX/UI Best Practices 🎨, Gamification 🏆, Responsive Design 📱
 
 ### ColorPal
 - [GitHub Repository](https://github.com/jonaszeihe/colorpal)
 - [Live Version](https://jonaszeihe.github.io/colorPal/)
-- **Highlights:** Dynamic Styling, Palette Generation, React
+- **Highlights:** Dynamic Styling ✏️, Palette Generation, React
 
 ### NoctuaLight
 - [GitHub Repository](https://github.com/jonaszeihe/noctuaLight)
-- **Highlights:** Clean Code, Lightweight Architecture, Dark/Light Mode
+- **Highlights:** Clean Code 🧼, Lightweight Architecture, Light/Dark Mode 🌙
 
 ### Skryper
 - [GitHub Repository](https://github.com/jonaszeihe/skryper)
 - [Releases](https://github.com/JonasZeihe/skryper/releases)
-- **Highlights:** Python, CLI Tool, Data Analysis
+- **Highlights:** Python 🐍, CLI Tool, Data Analysis
 
 ### Structra
 - [GitHub Repository](https://github.com/jonaszeihe/structra)
 - [Releases](https://github.com/JonasZeihe/structra/releases)
-- **Highlights:** Java, Modular Design, Data Visualization
+- **Highlights:** Java ☕, Modular Design, Data Visualization
 
 ### InkGrid
 - [GitHub Repository](https://github.com/jonaszeihe/inkgrid)
 - [Releases](https://github.com/jonaszeihe/inkgrid/releases)
-- **Highlights:** Drag & Drop, Custom Components, Prototyping
+- **Highlights:** Drag & Drop 🎯, Custom Components, Prototyping
 
 ### Shizen
 - [GitHub Repository](https://github.com/jonaszeihe/ninjin)
@@ -107,5 +107,8 @@ I’m a **Fullstack Developer & Designer** with a passion for blending **technic
 </p>
 
 <p align="center">
-  <em>Effortless elegance and a friendly spark – <br/>that’s what I bring to every project.</em>
+  <em>
+    A dash of whimsy, a dose of code,<br/>
+    and a world of possibilities – welcome aboard!
+  </em>
 </p>
