@@ -105,7 +105,6 @@ I’m a **Fullstack Developer & Designer** with a passion for blending **technic
 
 <p align="center">
   <em>
-    A dash of whimsy, a dose of code,<br/>
-    and a world of possibilities – welcome aboard!
+With a steady hand, a flair for code, and uncharted horizons ahead — hoist the sails, ARRRR! 🏴‍☠️⚓
   </em>
 </p>
